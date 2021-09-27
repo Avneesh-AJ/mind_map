@@ -2,8 +2,8 @@ function Help() {
     return (
         <>
             <h1>Help</h1>
-            <p>More video</p>
-            <a href="https://www.youtube.com/channel/UCtYe0w6nGQxAlA_CHkjKxZg">https://www.youtube.com/channel/UCtYe0w6nGQxAlA_CHkjKxZg</a>
+            <p>Check Out This</p>
+            <a href="https://to-do-app-avneesh.herokuapp.com/">My To-Do-List</a>
         </>
     );
 }
